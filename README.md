@@ -2,7 +2,7 @@
 
 
 
-<img src="image/logo.png" style="zoom: 33%;" />
+<img src="image/logo-blur.png" style="zoom: 33%;" />
 
 ## Overview 
 
