@@ -1,4 +1,5 @@
-# 🚀 A Survey on Multimodal Recommender Systems: Technological Taxonomy and Future Directions
+# 🚀 A Survey on Multimodal Recommender Systems:
+Recent Advances and Future Directions
 
 
 
@@ -6,7 +7,8 @@
 
 ## Overview 
 
-Our discussion categorizes existing MRS models into four critical aspects: **Feature Extraction**, **Encoder**, **Multimodal Fusion**, and **Loss Function**. Check out our survey 📄[A Survey on Multimodal Recommender Systems: Technological Taxonomy and Future Directions](), which contains a list of papers on multimodal recommender systems.
+Our discussion categorizes existing MRS models into four critical aspects: **Feature Extraction**, **Encoder**, **Multimodal Fusion**, and **Loss Function**. Check out our survey 📄[A Survey on Multimodal Recommender Systems:
+Recent Advances and Future Directions](), which contains a list of papers on multimodal recommender systems.
 
 If you find this repository helpful to your work, please kindly star it and cite our survey paper as follows:
 ```bibtex
