@@ -79,6 +79,7 @@ If you find this repository helpful to your work, please kindly star it and cite
 | VMoSE    | 2024 | TMM         | [link](https://ieeexplore.ieee.org/document/10487870)        | :question:                                                   |
 | SAND     | 2024 | arXiv       | [link](https://arxiv.org/pdf/2406.08270)                     | :question:                                                   |
 | MENTOR   | 2025 | AAAI        | [link](https://arxiv.org/pdf/2402.19407)                     | [code](https://github.com/Jinfeng-Xu/MENTOR)                 |
+| SMORE    | 2025 | WSDM        | [link](https://arxiv.org/pdf/2412.14978)                     | [code](https://github.com/kennethorq/SMORE)                  |
 
 
 
