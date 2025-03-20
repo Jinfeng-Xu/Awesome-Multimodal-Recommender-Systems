@@ -80,6 +80,8 @@ If you find this repository helpful to your work, please kindly star it and cite
 | SAND     | 2024 | arXiv       | [link](https://arxiv.org/pdf/2406.08270)                     | :question:                                                   |
 | MENTOR   | 2025 | AAAI        | [link](https://arxiv.org/pdf/2402.19407)                     | [code](https://github.com/Jinfeng-Xu/MENTOR)                 |
 | SMORE    | 2025 | WSDM        | [link](https://arxiv.org/pdf/2412.14978)                     | [code](https://github.com/kennethorq/SMORE)                  |
+| MoDiCF   | 2025 | WWW         | [link](https://arxiv.org/pdf/2501.11916)                     | [code](https://github.com/JinLi-i/MoDiCF)                    |
+| TARec    | 2025 | WWW         | [link](https://openreview.net/pdf?id=ss9UXxbSys)             | :question:                                                   |
 
 
 
