@@ -12,7 +12,12 @@ Recent Advances and Future Directions](https://arxiv.org/abs/2502.15711), which 
 
 If you find this repository helpful to your work, please kindly star it and cite our survey paper as follows:
 ```bibtex
-
+@article{xu2025survey,
+  title={A Survey on Multimodal Recommender Systems: Recent Advances and Future Directions},
+  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Wang, Wei and Hu, Xiping and Hoi, Steven and Ngai, Edith},
+  journal={arXiv preprint arXiv:2502.15711},
+  year={2025}
+}
 ```
 
 <img src="image/overview.png"/>
