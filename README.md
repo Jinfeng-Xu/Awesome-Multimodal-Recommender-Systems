@@ -74,7 +74,7 @@ If you find this repository helpful to your work, please kindly star it and cite
 | LGMRec   | 2024 | AAAI        | [link](https://arxiv.org/pdf/2312.16400)                     | [code](https://github.com/georgeguo-cn/LGMRec)               |
 | LLMRec   | 2024 | WSDM        | [link](https://arxiv.org/pdf/2311.00423)                     | [code](https://github.com/HKUDS/LLMRec)                      |
 | PromptMM | 2024 | WWW         | [link](https://arxiv.org/pdf/2402.17188)                     | [code](https://github.com/HKUDS/PromptMM)                    |
-| MCDRec   | 2024 | WWW         | [link](https://dl.acm.org/doi/10.1145/3589335.3651956)       | [code][https://github.com/Yimeng-yang/MCDRec]                |
+| MCDRec   | 2024 | WWW         | [link](https://dl.acm.org/doi/10.1145/3589335.3651956)       | [code](https://github.com/Yimeng-yang/MCDRec)                |
 | DiffMM   | 2024 | MM          | [link](https://arxiv.org/pdf/2406.11781)                     | [code](https://github.com/HKUDS/DiffMM)                      |
 | SOIL     | 2024 | MM          | [link](https://dl.acm.org/doi/abs/10.1145/3664647.3681207)   | [code](https://github.com/TL-UESTC/SOIL)                     |
 | CKD      | 2024 | MM          | [link](https://dl.acm.org/doi/10.1145/3664647.3680626)       | [code](https://github.com/CRIPAC-DIG/Balanced-Multimodal-Rec) |
