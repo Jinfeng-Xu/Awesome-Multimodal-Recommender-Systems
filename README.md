@@ -64,6 +64,7 @@ If you find this repository helpful to your work, please kindly star it and cite
 | A2BM2GL  | 2022 | MM          | [link](https://dl.acm.org/doi/10.1145/3503161.3548420)       | :question:                                                   |
 | HCGCN    | 2022 | MM          | [link](https://dl.acm.org/doi/10.1145/3503161.3548119)       | :question:                                                   |
 | DMRL     | 2022 | TMM         | [link](https://arxiv.org/pdf/2203.05406)                     | [code](https://github.com/liufancs/DMRL)                     |
+| MICRO    | 2022 | TKDE        | [link](https://arxiv.org/pdf/2111.00678)                     | [code](https://github.com/CRIPAC-DIG/MICRO)                  |
 | BM3      | 2023 | WWW         | [link](https://arxiv.org/pdf/2207.05969)                     | [code](https://github.com/enoche/BM3)                        |
 | MMSSL    | 2023 | WWW         | [link](https://arxiv.org/pdf/2302.10632)                     | [code](https://github.com/HKUDS/MMSSL)                       |
 | BCCL     | 2023 | MM          | [link](https://dl.acm.org/doi/10.1145/3581783.3612568)       | :question:                                                   |
@@ -86,6 +87,7 @@ If you find this repository helpful to your work, please kindly star it and cite
 | DGVAE    | 2024 | TMM         | [link](https://arxiv.org/abs/2402.16110)                     | [code](https://github.com/xiyou3368/DGVAE)                   |
 | VMoSE    | 2024 | TMM         | [link](https://ieeexplore.ieee.org/document/10487870)        | :question:                                                   |
 | SPACE    | 2024 | TMM         | [link](https://ieeexplore.ieee.org/abstract/document/10483555/) | :question:                                                   |
+| MGCE     | 2024 | TKDE        | [link](https://ieeexplore.ieee.org/abstract/document/10587159) | :question:                                                   |
 | MENTOR   | 2025 | AAAI        | [link](https://arxiv.org/pdf/2402.19407)                     | [code](https://github.com/Jinfeng-Xu/MENTOR)                 |
 | DOGE     | 2025 | AAAI        | [link](https://ojs.aaai.org/index.php/AAAI/article/view/33351/35506) | :question:                                                   |
 | PGL      | 2025 | AAAI        | [link](https://ojs.aaai.org/index.php/AAAI/article/view/33429) | [code](https://github.com/demonph10/PGL)                     |
