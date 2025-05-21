@@ -64,6 +64,7 @@ If you find this repository helpful to your work, please kindly star it and cite
 | A2BM2GL  | 2022 | MM          | [link](https://dl.acm.org/doi/10.1145/3503161.3548420)       | :question:                                                   |
 | HCGCN    | 2022 | MM          | [link](https://dl.acm.org/doi/10.1145/3503161.3548119)       | :question:                                                   |
 | DMRL     | 2022 | TMM         | [link](https://arxiv.org/pdf/2203.05406)                     | [code](https://github.com/liufancs/DMRL)                     |
+| SLMRec   | 2023 | TMM         | [link](https://ieeexplore.ieee.org/document/9811387)         | [code](https://github.com/zltao/SLMRec)                      |
 | MICRO    | 2022 | TKDE        | [link](https://arxiv.org/pdf/2111.00678)                     | [code](https://github.com/CRIPAC-DIG/MICRO)                  |
 | BM3      | 2023 | WWW         | [link](https://arxiv.org/pdf/2207.05969)                     | [code](https://github.com/enoche/BM3)                        |
 | MMSSL    | 2023 | WWW         | [link](https://arxiv.org/pdf/2302.10632)                     | [code](https://github.com/HKUDS/MMSSL)                       |
@@ -71,8 +72,7 @@ If you find this repository helpful to your work, please kindly star it and cite
 | FREEDOM  | 2023 | MM          | [link](https://arxiv.org/pdf/2211.06924)                     | [code](https://github.com/enoche/FREEDOM)                    |
 | MGCN     | 2023 | MM          | [link](https://arxiv.org/pdf/2308.03588)                     | [code](https://github.com/demonph10/MGCN)                    |
 | PaInvRL  | 2023 | MM          | [link](https://arxiv.org/pdf/2308.04706)                     | :question:                                                   |
-| DRAGON   | 2023 | ECAI        | [link](https://arxiv.org/pdf/2301.12097)                     | [code](https://github.com/hongyurain/DRAGON)                 |
-| SLMRec   | 2023 | TMM         | [link](https://ieeexplore.ieee.org/document/9811387)         | [code](https://github.com/zltao/SLMRec)                      |
+| DRAGON   | 2023 | ECAI        | [link](https://arxiv.org/pdf/2301.12097)                     | [code](                                                      |
 | MGCL     | 2023 | TMM         | [link](https://www.researchgate.net/profile/Kang-Liu-61/publication/369340959_Multimodal_Graph_Contrastive_Learning_for_Multimedia-Based_Recommendation/links/667975298408575b8384c71c/Multimodal-Graph-Contrastive-Learning-for-Multimedia-Based-Recommendation.pdf) | [code](https://github.com/hfutmars/MGCL)                     |
 | LGMRec   | 2024 | AAAI        | [link](https://arxiv.org/pdf/2312.16400)                     | [code](https://github.com/georgeguo-cn/LGMRec)               |
 | LLMRec   | 2024 | WSDM        | [link](https://arxiv.org/pdf/2311.00423)                     | [code](https://github.com/HKUDS/LLMRec)                      |
