@@ -1,6 +1,4 @@
-# 🚀 A Survey on Multimodal Recommender Systems:
-Recent Advances and Future Directions
-
+# 🚀 A Survey on Multimodal Recommender Systems: Recent Advances and Future Directions
 
 
 <img src="image/logo-blur.png" style="zoom: 33%;" />
