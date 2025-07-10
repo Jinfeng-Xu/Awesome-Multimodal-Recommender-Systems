@@ -89,13 +89,14 @@ If you find this repository helpful to your work, please kindly star it and cite
 | MENTOR   | 2025 | AAAI        | [link](https://arxiv.org/pdf/2402.19407)                     | [code](https://github.com/Jinfeng-Xu/MENTOR)                 |
 | DOGE     | 2025 | AAAI        | [link](https://ojs.aaai.org/index.php/AAAI/article/view/33351/35506) | :question:                                                   |
 | PGL      | 2025 | AAAI        | [link](https://ojs.aaai.org/index.php/AAAI/article/view/33429) | [code](https://github.com/demonph10/PGL)                     |
+| BeFA     | 2025 | AAAI        | [link](https://arxiv.org/pdf/2406.0323)                      | [code](https://github.com/fqldom/BeFA)                       |
 | CMDL     | 2025 | TOIS        | [link](https://dl.acm.org/doi/pdf/10.1145/3715876)           | [code](https://github.com/ruiliu2020/CMDL)                   |
 | SMORE    | 2025 | WSDM        | [link](https://arxiv.org/pdf/2412.14978)                     | [code](https://github.com/kennethorq/SMORE)                  |
 | Guider   | 2025 | WSDM        | [link](https://dl.acm.org/doi/pdf/10.1145/3701551.3703507)   | [code](https://github.com/Neon-Jing/Guider)                  |
 | MoDiCF   | 2025 | WWW         | [link](https://arxiv.org/pdf/2501.11916)                     | [code](https://github.com/JinLi-i/MoDiCF)                    |
 | TARec    | 2025 | WWW         | [link](https://openreview.net/pdf?id=ss9UXxbSys)             | :question:                                                   |
 | DVIB     | 2025 | WWW         | [link](https://openreview.net/pdf?id=k4e3Dh2icw)             | :question:                                                   |
-| COHESION | 2025 | SIGIR       | [link](https://arxiv.org/pdf/2504.04452)                     | :question:                                                   |
+| COHESION | 2025 | SIGIR       | [link](https://arxiv.org/pdf/2504.04452)                     | [code](https://github.com/Jinfeng-Xu/COHESION)               |
 | DGMRec   | 2025 | SIGIR       | [link](https://arxiv.org/pdf/2504.16352)                     | [code](https://github.com/ptkjw1997/DGMRec)                  |
 
 
