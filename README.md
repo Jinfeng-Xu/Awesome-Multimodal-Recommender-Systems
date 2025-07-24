@@ -131,3 +131,7 @@ We sorted all multimodal recommendation datasets based on scale size.
 | Movielens      | 25M   | Movie              | Visual, Textual               | [link](https://grouplens.org/datasets/movielens/)            |
 | MSD            | 48M+  | Music              | Textual, Audio                | [link](http://millionsongdataset.com/challenge/)             |
 | Amazon         | 100M+ | E-commerce         | Visual, Textual               | [link](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews) |
+
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Jinfeng-Xu/Awesome-Multimodal-Recommender-Systems&type=Date)](https://www.star-history.com/#Jinfeng-Xu/Awesome-Multimodal-Recommender-Systems&Date)
