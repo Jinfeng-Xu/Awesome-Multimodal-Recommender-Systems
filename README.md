@@ -137,6 +137,4 @@ We sorted all multimodal recommendation datasets based on scale size.
 
 
 
-
-
-[[![Star History Chart](../../JournalImage/Awesome-Multimodal-Recommender-Systems&type=Date-20250724222317258)[![Star History Chart](https://api.star-history.com/svg?repos=Jinfeng-Xu/Awesome-Multimodal-Recommender-Systems&type=Date)](https://www.star-history.com/#Jinfeng-Xu/Awesome-Multimodal-Recommender-Systems&Date)
+[![*Star History Chart*](https://api.star-history.com/svg?repos=Jinfeng-Xu/Awesome-Multimodal-Recommender-Systems&type=Date)](https://www.star-history.com/#Jinfeng-Xu/Awesome-Multimodal-Recommender-Systems&Date)
