@@ -30,74 +30,77 @@ If you find this repository helpful to your work, please kindly star it and cite
 
 :question: denotes cannot find implementation code. 
 
-| Name     | Year | Publication | Paper                                                        | Code                                                         |
-| -------- | ---- | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| VBPR     | 2016 | AAAI        | [link](https://arxiv.org/pdf/1510.01784)                     | [code](https://github.com/arogers1/VBPR)                     |
-| VMCF     | 2017 | WWW         | [link](https://dl.acm.org/doi/10.1145/3038912.3052581)       | :question:                                                   |
-| ACF      | 2017 | WWW         | [link](https://dl.acm.org/doi/10.1145/3077136.3080797)       | [code](https://github.com/ChenJingyuan91/ACF)                |
-| JRL      | 2017 | CIKM        | [link](https://dl.acm.org/doi/10.1145/3132847.3132892)       | [code](https://github.com/QingyaoAi/Joint-Representation-Learning-for-Top-N-Recommendation) |
-| DVBPR    | 2017 | ICDM        | [link](https://arxiv.org/pdf/1711.02231)                     | [code](https://github.com/kang205/DVBPR)                     |
-| GraphCAR | 2018 | SIGIR       | [link](https://dl.acm.org/doi/10.1145/3209978.3210117)       | :question:                                                   |
-| VECF     | 2019 | SIGIR       | [link](https://dl.acm.org/doi/10.1145/3331184.3331254)       | [code](https://github.com/malizheng/VECF)                    |
-| UVCAN    | 2019 | WWW         | [link](https://dl.acm.org/doi/10.1145/3308558.3313513)       | :question:                                                   |
-| MAML     | 2019 | MM          | [link](https://dl.acm.org/doi/10.1145/3343031.3350953)       | [code](https://github.com/liufancs/MAML)                     |
-| MMGCN    | 2019 | MM          | [link](https://dl.acm.org/doi/10.1145/3343031.3351034)       | [code](https://github.com/weiyinwei/MMGCN)                   |
-| AMR      | 2019 | TKDE        | [link](https://ieeexplore.ieee.org/abstract/document/8618394) | [code](https://github.com/duxy-me/AMR)                       |
-| MGAT     | 2020 | I&M         | [link](https://www.sciencedirect.com/science/article/abs/pii/S0306457320300182) | [code](https://github.com/zltao/MGAT)                        |
-| GRCN     | 2020 | MM          | [link](https://dl.acm.org/doi/10.1145/3394171.3413556)       | [code](https://github.com/weiyinwei/GRCN)                    |
-| MKGAT    | 2020 | CIKM        | [link](https://dl.acm.org/doi/10.1145/3340531.3411947)       | [code](https://github.com/QuXiaolong0812/mkgcn)              |
-| IMRec    | 2021 | MM          | [link](https://dl.acm.org/doi/10.1145/3474085.3475514)       | [code](https://github.com/jiahaoxun/imrec)                   |
-| PMGT     | 2021 | MM          | [link](https://arxiv.org/pdf/2010.12284)                     | [code](https://github.com/uoo723/PMGT)                       |
-| LATTICE  | 2021 | MM          | [link](https://dl.acm.org/doi/10.1145/3474085.3475259)       | [code](https://github.com/CRIPAC-DIG/LATTICE)                |
-| HHFAN    | 2021 | TMM         | [link](https://ieeexplore.ieee.org/document/9360479)         | :question:                                                   |
-| MVGAE    | 2021 | TMM         | [link](https://ieeexplore.ieee.org/abstract/document/9535249/) | [code](https://github.com/jing-1/MVGAE)                      |
-| DualGNN  | 2021 | TMM         | [link](https://ieeexplore.ieee.org/document/9662655)         | [code](https://github.com/wqf321/dualgnn)                    |
-| HUIGN    | 2021 | TMM         | [link](https://ieeexplore.ieee.org/abstract/document/9453189/) | :question:                                                   |
-| PAMD     | 2022 | WWW         | [link](https://dl.acm.org/doi/10.1145/3485447.3512079)       | [code](https://github.com/hantengyue/PAMD)                   |
-| MMGCL    | 2022 | SIGIR       | [link](https://dl.acm.org/doi/10.1145/3477495.3532027)       | [code](https://github.com/zxy-ml84/MMGCL)                    |
-| ADDVAE   | 2022 | KDD         | [link](https://dl.acm.org/doi/10.1145/3534678.3539474)       | [code](https://github.com/PreferredAI/ADDVAE)                |
-| EliMRec  | 2022 | MM          | [link](https://dl.acm.org/doi/10.1145/3503161.3548404)       | [code](https://github.com/Xiaohao-Liu/EliMRec)               |
-| EgoGCN   | 2022 | MM          | [link](https://dl.acm.org/doi/10.1145/3503161.3548399)       | [code](https://github.com/feiyuchen7/EgoGCN)                 |
-| InvRL    | 2022 | MM          | [link](https://dl.acm.org/doi/10.1145/3503161.3548405)       | [code](https://github.com/nickwzk/InvRL)                     |
-| A2BM2GL  | 2022 | MM          | [link](https://dl.acm.org/doi/10.1145/3503161.3548420)       | :question:                                                   |
-| HCGCN    | 2022 | MM          | [link](https://dl.acm.org/doi/10.1145/3503161.3548119)       | :question:                                                   |
-| DMRL     | 2022 | TMM         | [link](https://arxiv.org/pdf/2203.05406)                     | [code](https://github.com/liufancs/DMRL)                     |
-| SLMRec   | 2022 | TMM         | [link](https://ieeexplore.ieee.org/document/9811387)         | [code](https://github.com/zltao/SLMRec)                      |
-| MICRO    | 2022 | TKDE        | [link](https://arxiv.org/pdf/2111.00678)                     | [code](https://github.com/CRIPAC-DIG/MICRO)                  |
-| BM3      | 2023 | WWW         | [link](https://arxiv.org/pdf/2207.05969)                     | [code](https://github.com/enoche/BM3)                        |
-| MMSSL    | 2023 | WWW         | [link](https://arxiv.org/pdf/2302.10632)                     | [code](https://github.com/HKUDS/MMSSL)                       |
-| BCCL     | 2023 | MM          | [link](https://dl.acm.org/doi/10.1145/3581783.3612568)       | :question:                                                   |
-| FREEDOM  | 2023 | MM          | [link](https://arxiv.org/pdf/2211.06924)                     | [code](https://github.com/enoche/FREEDOM)                    |
-| MGCN     | 2023 | MM          | [link](https://arxiv.org/pdf/2308.03588)                     | [code](https://github.com/demonph10/MGCN)                    |
-| PaInvRL  | 2023 | MM          | [link](https://arxiv.org/pdf/2308.04706)                     | :question:                                                   |
-| DRAGON   | 2023 | ECAI        | [link](https://arxiv.org/pdf/2301.12097)                     | [code](https://github.com/hongyurain/DRAGON)                 |
-| MGCL     | 2023 | TMM         | [link](https://www.researchgate.net/profile/Kang-Liu-61/publication/369340959_Multimodal_Graph_Contrastive_Learning_for_Multimedia-Based_Recommendation/links/667975298408575b8384c71c/Multimodal-Graph-Contrastive-Learning-for-Multimedia-Based-Recommendation.pdf) | [code](https://github.com/hfutmars/MGCL)                     |
-| LGMRec   | 2024 | AAAI        | [link](https://arxiv.org/pdf/2312.16400)                     | [code](https://github.com/georgeguo-cn/LGMRec)               |
-| LLMRec   | 2024 | WSDM        | [link](https://arxiv.org/pdf/2311.00423)                     | [code](https://github.com/HKUDS/LLMRec)                      |
-| PromptMM | 2024 | WWW         | [link](https://arxiv.org/pdf/2402.17188)                     | [code](https://github.com/HKUDS/PromptMM)                    |
-| MCDRec   | 2024 | WWW         | [link](https://dl.acm.org/doi/10.1145/3589335.3651956)       | [code](https://github.com/Yimeng-yang/MCDRec)                |
-| DA-MRS   | 2024 | KDD         | [link](https://dl.acm.org/doi/abs/10.1145/3637528.3671703)   | [code](https://github.com/XMUDM/DA-MRS)                      |
-| DiffMM   | 2024 | MM          | [link](https://arxiv.org/pdf/2406.11781)                     | [code](https://github.com/HKUDS/DiffMM)                      |
-| SOIL     | 2024 | MM          | [link](https://dl.acm.org/doi/abs/10.1145/3664647.3681207)   | [code](https://github.com/TL-UESTC/SOIL)                     |
-| CKD      | 2024 | MM          | [link](https://dl.acm.org/doi/10.1145/3664647.3680626)       | [code](https://github.com/CRIPAC-DIG/Balanced-Multimodal-Rec) |
-| GUME     | 2024 | CIKM        | [link](https://arxiv.org/pdf/2407.12338)                     | [code](https://github.com/NanGongNingYi/GUME)                |
-| POWERec  | 2024 | INFFUS      | [link](https://www.sciencedirect.com/science/article/abs/pii/S1566253523003056) | [code](https://github.com/hello-dx/POWERec)                  |
-| DGVAE    | 2024 | TMM         | [link](https://arxiv.org/abs/2402.16110)                     | [code](https://github.com/xiyou3368/DGVAE)                   |
-| VMoSE    | 2024 | TMM         | [link](https://ieeexplore.ieee.org/document/10487870)        | :question:                                                   |
-| SPACE    | 2024 | TMM         | [link](https://ieeexplore.ieee.org/abstract/document/10483555/) | :question:                                                   |
-| MGCE     | 2024 | TKDE        | [link](https://ieeexplore.ieee.org/abstract/document/10587159) | :question:                                                   |
-| MENTOR   | 2025 | AAAI        | [link](https://arxiv.org/pdf/2402.19407)                     | [code](https://github.com/Jinfeng-Xu/MENTOR)                 |
-| DOGE     | 2025 | AAAI        | [link](https://ojs.aaai.org/index.php/AAAI/article/view/33351/35506) | :question:                                                   |
-| PGL      | 2025 | AAAI        | [link](https://ojs.aaai.org/index.php/AAAI/article/view/33429) | [code](https://github.com/demonph10/PGL)                     |
-| BeFA     | 2025 | AAAI        | [link](https://arxiv.org/pdf/2406.0323)                      | [code](https://github.com/fqldom/BeFA)                       |
-| CMDL     | 2025 | TOIS        | [link](https://dl.acm.org/doi/pdf/10.1145/3715876)           | [code](https://github.com/ruiliu2020/CMDL)                   |
-| SMORE    | 2025 | WSDM        | [link](https://arxiv.org/pdf/2412.14978)                     | [code](https://github.com/kennethorq/SMORE)                  |
-| Guider   | 2025 | WSDM        | [link](https://dl.acm.org/doi/pdf/10.1145/3701551.3703507)   | [code](https://github.com/Neon-Jing/Guider)                  |
-| MoDiCF   | 2025 | WWW         | [link](https://arxiv.org/pdf/2501.11916)                     | [code](https://github.com/JinLi-i/MoDiCF)                    |
-| TARec    | 2025 | WWW         | [link](https://openreview.net/pdf?id=ss9UXxbSys)             | :question:                                                   |
-| DVIB     | 2025 | WWW         | [link](https://openreview.net/pdf?id=k4e3Dh2icw)             | :question:                                                   |
-| COHESION | 2025 | SIGIR       | [link](https://arxiv.org/pdf/2504.04452)                     | [code](https://github.com/Jinfeng-Xu/COHESION)               |
-| DGMRec   | 2025 | SIGIR       | [link](https://arxiv.org/pdf/2504.16352)                     | [code](https://github.com/ptkjw1997/DGMRec)                  |
+| Name      | Year | Publication | Paper                                                        | Code                                                         |
+| --------- | ---- | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| VBPR      | 2016 | AAAI        | [link](https://arxiv.org/pdf/1510.01784)                     | [code](https://github.com/arogers1/VBPR)                     |
+| VMCF      | 2017 | WWW         | [link](https://dl.acm.org/doi/10.1145/3038912.3052581)       | :question:                                                   |
+| ACF       | 2017 | WWW         | [link](https://dl.acm.org/doi/10.1145/3077136.3080797)       | [code](https://github.com/ChenJingyuan91/ACF)                |
+| JRL       | 2017 | CIKM        | [link](https://dl.acm.org/doi/10.1145/3132847.3132892)       | [code](https://github.com/QingyaoAi/Joint-Representation-Learning-for-Top-N-Recommendation) |
+| DVBPR     | 2017 | ICDM        | [link](https://arxiv.org/pdf/1711.02231)                     | [code](https://github.com/kang205/DVBPR)                     |
+| GraphCAR  | 2018 | SIGIR       | [link](https://dl.acm.org/doi/10.1145/3209978.3210117)       | :question:                                                   |
+| VECF      | 2019 | SIGIR       | [link](https://dl.acm.org/doi/10.1145/3331184.3331254)       | [code](https://github.com/malizheng/VECF)                    |
+| UVCAN     | 2019 | WWW         | [link](https://dl.acm.org/doi/10.1145/3308558.3313513)       | :question:                                                   |
+| MAML      | 2019 | MM          | [link](https://dl.acm.org/doi/10.1145/3343031.3350953)       | [code](https://github.com/liufancs/MAML)                     |
+| MMGCN     | 2019 | MM          | [link](https://dl.acm.org/doi/10.1145/3343031.3351034)       | [code](https://github.com/weiyinwei/MMGCN)                   |
+| AMR       | 2019 | TKDE        | [link](https://ieeexplore.ieee.org/abstract/document/8618394) | [code](https://github.com/duxy-me/AMR)                       |
+| MGAT      | 2020 | I&M         | [link](https://www.sciencedirect.com/science/article/abs/pii/S0306457320300182) | [code](https://github.com/zltao/MGAT)                        |
+| GRCN      | 2020 | MM          | [link](https://dl.acm.org/doi/10.1145/3394171.3413556)       | [code](https://github.com/weiyinwei/GRCN)                    |
+| MKGAT     | 2020 | CIKM        | [link](https://dl.acm.org/doi/10.1145/3340531.3411947)       | [code](https://github.com/QuXiaolong0812/mkgcn)              |
+| IMRec     | 2021 | MM          | [link](https://dl.acm.org/doi/10.1145/3474085.3475514)       | [code](https://github.com/jiahaoxun/imrec)                   |
+| PMGT      | 2021 | MM          | [link](https://arxiv.org/pdf/2010.12284)                     | [code](https://github.com/uoo723/PMGT)                       |
+| LATTICE   | 2021 | MM          | [link](https://dl.acm.org/doi/10.1145/3474085.3475259)       | [code](https://github.com/CRIPAC-DIG/LATTICE)                |
+| HHFAN     | 2021 | TMM         | [link](https://ieeexplore.ieee.org/document/9360479)         | :question:                                                   |
+| MVGAE     | 2021 | TMM         | [link](https://ieeexplore.ieee.org/abstract/document/9535249/) | [code](https://github.com/jing-1/MVGAE)                      |
+| DualGNN   | 2021 | TMM         | [link](https://ieeexplore.ieee.org/document/9662655)         | [code](https://github.com/wqf321/dualgnn)                    |
+| HUIGN     | 2021 | TMM         | [link](https://ieeexplore.ieee.org/abstract/document/9453189/) | :question:                                                   |
+| PAMD      | 2022 | WWW         | [link](https://dl.acm.org/doi/10.1145/3485447.3512079)       | [code](https://github.com/hantengyue/PAMD)                   |
+| MMGCL     | 2022 | SIGIR       | [link](https://dl.acm.org/doi/10.1145/3477495.3532027)       | [code](https://github.com/zxy-ml84/MMGCL)                    |
+| ADDVAE    | 2022 | KDD         | [link](https://dl.acm.org/doi/10.1145/3534678.3539474)       | [code](https://github.com/PreferredAI/ADDVAE)                |
+| EliMRec   | 2022 | MM          | [link](https://dl.acm.org/doi/10.1145/3503161.3548404)       | [code](https://github.com/Xiaohao-Liu/EliMRec)               |
+| EgoGCN    | 2022 | MM          | [link](https://dl.acm.org/doi/10.1145/3503161.3548399)       | [code](https://github.com/feiyuchen7/EgoGCN)                 |
+| InvRL     | 2022 | MM          | [link](https://dl.acm.org/doi/10.1145/3503161.3548405)       | [code](https://github.com/nickwzk/InvRL)                     |
+| A2BM2GL   | 2022 | MM          | [link](https://dl.acm.org/doi/10.1145/3503161.3548420)       | :question:                                                   |
+| HCGCN     | 2022 | MM          | [link](https://dl.acm.org/doi/10.1145/3503161.3548119)       | :question:                                                   |
+| DMRL      | 2022 | TMM         | [link](https://arxiv.org/pdf/2203.05406)                     | [code](https://github.com/liufancs/DMRL)                     |
+| SLMRec    | 2022 | TMM         | [link](https://ieeexplore.ieee.org/document/9811387)         | [code](https://github.com/zltao/SLMRec)                      |
+| MICRO     | 2022 | TKDE        | [link](https://arxiv.org/pdf/2111.00678)                     | [code](https://github.com/CRIPAC-DIG/MICRO)                  |
+| BM3       | 2023 | WWW         | [link](https://arxiv.org/pdf/2207.05969)                     | [code](https://github.com/enoche/BM3)                        |
+| MMSSL     | 2023 | WWW         | [link](https://arxiv.org/pdf/2302.10632)                     | [code](https://github.com/HKUDS/MMSSL)                       |
+| BCCL      | 2023 | MM          | [link](https://dl.acm.org/doi/10.1145/3581783.3612568)       | :question:                                                   |
+| FREEDOM   | 2023 | MM          | [link](https://arxiv.org/pdf/2211.06924)                     | [code](https://github.com/enoche/FREEDOM)                    |
+| MGCN      | 2023 | MM          | [link](https://arxiv.org/pdf/2308.03588)                     | [code](https://github.com/demonph10/MGCN)                    |
+| PaInvRL   | 2023 | MM          | [link](https://arxiv.org/pdf/2308.04706)                     | :question:                                                   |
+| DRAGON    | 2023 | ECAI        | [link](https://arxiv.org/pdf/2301.12097)                     | [code](https://github.com/hongyurain/DRAGON)                 |
+| MGCL      | 2023 | TMM         | [link](https://www.researchgate.net/profile/Kang-Liu-61/publication/369340959_Multimodal_Graph_Contrastive_Learning_for_Multimedia-Based_Recommendation/links/667975298408575b8384c71c/Multimodal-Graph-Contrastive-Learning-for-Multimedia-Based-Recommendation.pdf) | [code](https://github.com/hfutmars/MGCL)                     |
+| LGMRec    | 2024 | AAAI        | [link](https://arxiv.org/pdf/2312.16400)                     | [code](https://github.com/georgeguo-cn/LGMRec)               |
+| LLMRec    | 2024 | WSDM        | [link](https://arxiv.org/pdf/2311.00423)                     | [code](https://github.com/HKUDS/LLMRec)                      |
+| PromptMM  | 2024 | WWW         | [link](https://arxiv.org/pdf/2402.17188)                     | [code](https://github.com/HKUDS/PromptMM)                    |
+| MCDRec    | 2024 | WWW         | [link](https://dl.acm.org/doi/10.1145/3589335.3651956)       | [code](https://github.com/Yimeng-yang/MCDRec)                |
+| DA-MRS    | 2024 | KDD         | [link](https://dl.acm.org/doi/abs/10.1145/3637528.3671703)   | [code](https://github.com/XMUDM/DA-MRS)                      |
+| DiffMM    | 2024 | MM          | [link](https://arxiv.org/pdf/2406.11781)                     | [code](https://github.com/HKUDS/DiffMM)                      |
+| SOIL      | 2024 | MM          | [link](https://dl.acm.org/doi/abs/10.1145/3664647.3681207)   | [code](https://github.com/TL-UESTC/SOIL)                     |
+| CKD       | 2024 | MM          | [link](https://dl.acm.org/doi/10.1145/3664647.3680626)       | [code](https://github.com/CRIPAC-DIG/Balanced-Multimodal-Rec) |
+| GUME      | 2024 | CIKM        | [link](https://arxiv.org/pdf/2407.12338)                     | [code](https://github.com/NanGongNingYi/GUME)                |
+| POWERec   | 2024 | INFFUS      | [link](https://www.sciencedirect.com/science/article/abs/pii/S1566253523003056) | [code](https://github.com/hello-dx/POWERec)                  |
+| DGVAE     | 2024 | TMM         | [link](https://arxiv.org/abs/2402.16110)                     | [code](https://github.com/xiyou3368/DGVAE)                   |
+| VMoSE     | 2024 | TMM         | [link](https://ieeexplore.ieee.org/document/10487870)        | :question:                                                   |
+| SPACE     | 2024 | TMM         | [link](https://ieeexplore.ieee.org/abstract/document/10483555/) | :question:                                                   |
+| MGCE      | 2024 | TKDE        | [link](https://ieeexplore.ieee.org/abstract/document/10587159) | :question:                                                   |
+| MENTOR    | 2025 | AAAI        | [link](https://arxiv.org/pdf/2402.19407)                     | [code](https://github.com/Jinfeng-Xu/MENTOR)                 |
+| DOGE      | 2025 | AAAI        | [link](https://ojs.aaai.org/index.php/AAAI/article/view/33351/35506) | :question:                                                   |
+| PGL       | 2025 | AAAI        | [link](https://ojs.aaai.org/index.php/AAAI/article/view/33429) | [code](https://github.com/demonph10/PGL)                     |
+| BeFA      | 2025 | AAAI        | [link](https://arxiv.org/pdf/2406.0323)                      | [code](https://github.com/fqldom/BeFA)                       |
+| CMDL      | 2025 | TOIS        | [link](https://dl.acm.org/doi/pdf/10.1145/3715876)           | [code](https://github.com/ruiliu2020/CMDL)                   |
+| SMORE     | 2025 | WSDM        | [link](https://arxiv.org/pdf/2412.14978)                     | [code](https://github.com/kennethorq/SMORE)                  |
+| Guider    | 2025 | WSDM        | [link](https://dl.acm.org/doi/pdf/10.1145/3701551.3703507)   | [code](https://github.com/Neon-Jing/Guider)                  |
+| MoDiCF    | 2025 | WWW         | [link](https://arxiv.org/pdf/2501.11916)                     | [code](https://github.com/JinLi-i/MoDiCF)                    |
+| TARec     | 2025 | WWW         | [link](https://openreview.net/pdf?id=ss9UXxbSys)             | :question:                                                   |
+| DVIB      | 2025 | WWW         | [link](https://openreview.net/pdf?id=k4e3Dh2icw)             | :question:                                                   |
+| COHESION  | 2025 | SIGIR       | [link](https://arxiv.org/pdf/2504.04452)                     | [code](https://github.com/Jinfeng-Xu/COHESION)               |
+| DGMRec    | 2025 | SIGIR       | [link](https://arxiv.org/pdf/2504.16352)                     | [code](https://github.com/ptkjw1997/DGMRec)                  |
+| FastMMRec | 2025 | MM          | [link](https://www.arxiv.org/pdf/2507.18489)                 | :question:                                                   |
+| NEGGEN    | 2025 | MM          | [link](https://arxiv.org/pdf/2501.15183)                     | :question:                                                   |
+| HPMRec    | 2025 | CIKM        | [link](https://arxiv.org/pdf/2508.10753)                     | [code](https://github.com/Zheyu-Chen/HPMRec)                 |
 
 
 
@@ -131,3 +134,9 @@ We sorted all multimodal recommendation datasets based on scale size.
 | Movielens      | 25M   | Movie              | Visual, Textual               | [link](https://grouplens.org/datasets/movielens/)            |
 | MSD            | 48M+  | Music              | Textual, Audio                | [link](http://millionsongdataset.com/challenge/)             |
 | Amazon         | 100M+ | E-commerce         | Visual, Textual               | [link](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews) |
+
+
+
+
+
+[[![Star History Chart](../../JournalImage/Awesome-Multimodal-Recommender-Systems&type=Date-20250724222317258)[![Star History Chart](https://api.star-history.com/svg?repos=Jinfeng-Xu/Awesome-Multimodal-Recommender-Systems&type=Date)](https://www.star-history.com/#Jinfeng-Xu/Awesome-Multimodal-Recommender-Systems&Date)
