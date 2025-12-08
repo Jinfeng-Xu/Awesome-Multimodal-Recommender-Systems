@@ -106,6 +106,7 @@ If you find this repository helpful to your work, please kindly star it and cite
 | MambaRec     | 2025 | CIKM        | [link](https://arxiv.org/pdf/2509.09114)                     | [code](https://github.com/rkl71/MambaRec)                    |
 | Study4LLMRec | 2025 | RecSys      | [link](https://dl.acm.org/doi/pdf/10.1145/3705328.3748154)   | [code](https://github.com/nickolat/LLMRec_reproducibility)   |
 | ITCoHD-MRec  | 2025 | TOIS        | [link](https://dl.acm.org/doi/pdf/10.1145/3767337)           | :question:                                                   |
+| SSR          | 2025 | NeurIPS     | [link](https://arxiv.org/pdf/2512.01372)                     | :question:                                                   |
 
 
 
