@@ -98,6 +98,7 @@ If you find this repository helpful to your work, please kindly star it and cite
 | DVIB         | 2025 | WWW         | [link](https://openreview.net/pdf?id=k4e3Dh2icw)             | :question:                                                   |
 | COHESION     | 2025 | SIGIR       | [link](https://arxiv.org/pdf/2504.04452)                     | [code](https://github.com/Jinfeng-Xu/COHESION)               |
 | DGMRec       | 2025 | SIGIR       | [link](https://arxiv.org/pdf/2504.16352)                     | [code](https://github.com/ptkjw1997/DGMRec)                  |
+| MDVT         | 2025 | KDD         | [link](https://arxiv.org/pdf/2505.16665)                     | [code](https://github.com/Jinfeng-Xu/MDVT)                   |
 | FastMMRec    | 2025 | MM          | [link](https://www.arxiv.org/pdf/2507.18489)                 | :question:                                                   |
 | NEGGEN       | 2025 | MM          | [link](https://arxiv.org/pdf/2501.15183)                     | :question:                                                   |
 | TAMER        | 2025 | MM          | [link](https://dl.acm.org/doi/pdf/10.1145/3746027.3754953)   | :question:                                                   |
@@ -107,6 +108,7 @@ If you find this repository helpful to your work, please kindly star it and cite
 | Study4LLMRec | 2025 | RecSys      | [link](https://dl.acm.org/doi/pdf/10.1145/3705328.3748154)   | [code](https://github.com/nickolat/LLMRec_reproducibility)   |
 | ITCoHD-MRec  | 2025 | TOIS        | [link](https://dl.acm.org/doi/pdf/10.1145/3767337)           | :question:                                                   |
 | SSR          | 2025 | NeurIPS     | [link](https://arxiv.org/pdf/2512.01372)                     | :question:                                                   |
+| VI-MMRec     | 2026 | KDD         | [link](https://arxiv.org/pdf/2512.08702)                     | :question:                                                   |
 
 
 
