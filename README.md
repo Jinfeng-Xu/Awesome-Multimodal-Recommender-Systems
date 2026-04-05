@@ -1,11 +1,20 @@
-# 🚀 A Survey on Multimodal Recommender Systems: Recent Advances and Future Directions
+<div style="margin: 20px 0;">
+  <img src="image/logo.png" width="120" height="120" alt="LightRAG Logo" style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);">
+</div>
+# A Survey on Multimodal Recommender Systems: Recent Advances and Future Directions
 
-<img src="image/logo-blur.png" style="zoom: 33%;" />
+## 🚀 Overview 
 
-## Overview 
+Our discussion categorizes existing MRS models into four critical aspects: **Feature Extraction**, **Encoder**, **Multimodal Fusion**, and **Loss Function**. 
 
-Our discussion categorizes existing MRS models into four critical aspects: **Feature Extraction**, **Encoder**, **Multimodal Fusion**, and **Loss Function**. Check out our survey 📄[A Survey on Multimodal Recommender Systems:
+<img src="image/overview.png"/>
+
+Check out our survey 📄[A Survey on Multimodal Recommender Systems:
 Recent Advances and Future Directions](https://arxiv.org/abs/2502.15711), which contains a list of papers on multimodal recommender systems.
+
+ >**SSLRec: A Self-Supervised Learning Framework for Recommendation**  
+ >Jinfeng Xu, Zheyu Chen, Shuo Yang,  Jinze Li, Wei Wang, Xiping Hu, Steven Hoi, and Edith Ngai
+ >*TMM 2026*
 
 If you find this repository helpful to your work, please kindly star it and cite our survey paper as follows:
 ```bibtex
@@ -18,15 +27,17 @@ If you find this repository helpful to your work, please kindly star it and cite
 }
 ```
 
-<img src="image/overview.png"/>
-
-
-
 🤗 Contributions to update new resources and articles are very welcome!
 
+## 🎉 News
+- [2026.04]🎯[Update]: Add papers related to **AAAI 2026**.
+- [2026.03]🎯[Update]: Add papers related to **KDD 2026 Round1**, **Information Fusion 2026**, and **TORS 2026**.
+- [2025.12]🎯[Update]: Add papers related to **NeurIPS 2025**, **RecSys 2025**, and **TOIS 2025**.
+- [2025.11]🎯[Update]: Add papers related to **MM 2025** and **CIKM 2025**.
+- [2025.07]🎯[Update]: Add papers related to **SIGIR 2025** and **KDD 2025**.
+- [2025.03]🎯[Update]: This repository is publicly available.
 
-
-## Paper List
+## 📊 Paper List
 
 :question: denotes cannot find implementation code. 
 
@@ -118,7 +129,7 @@ If you find this repository helpful to your work, please kindly star it and cite
 
 
 
-## Framework
+## 💻 Framework
 
 There are two open-sourced repositories for implementing multimodal recommender system models.
 
@@ -126,7 +137,7 @@ There are two open-sourced repositories for implementing multimodal recommender 
 
 
 
-## Dataset
+## 📂 Dataset
 
 We sorted all multimodal recommendation datasets based on scale size.
 
