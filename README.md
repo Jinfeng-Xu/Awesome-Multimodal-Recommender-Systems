@@ -1,7 +1,5 @@
-<div style="margin: 20px 0;">
-  <img src="image/logo.png" width="120" height="120" alt="LightRAG Logo" style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);">
-</div>
-# A Survey on Multimodal Recommender Systems: Recent Advances and Future Directions
+
+<h1 align="center"><img src="image/logo.png" alt="" width="64" style="vertical-align: middle;">&nbsp; A Survey on Multimodal Recommender Systems: Recent Advances and Future Directions</h1>
 
 ## 🚀 Overview 
 
