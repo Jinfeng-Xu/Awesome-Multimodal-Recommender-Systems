@@ -7,8 +7,7 @@ Our discussion categorizes existing MRS models into four critical aspects: **Fea
 
 <img src="image/overview.png"/>
 
-Check out our survey 📄[A Survey on Multimodal Recommender Systems:
-Recent Advances and Future Directions](https://arxiv.org/abs/2502.15711), which contains a list of papers on multimodal recommender systems.
+Check out our survey 📄[A Survey on Multimodal Recommender Systems: Recent Advances and Future Directions](https://arxiv.org/abs/2502.15711), which contains a list of papers on multimodal recommender systems.
 
  >**[TMM 2026] A survey on multimodal recommender systems: Recent advances and future directions**  
  >Jinfeng Xu, Zheyu Chen, Shuo Yang,  Jinze Li, Wei Wang, Xiping Hu, Steven Hoi, and Edith Ngai
