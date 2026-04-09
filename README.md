@@ -22,16 +22,24 @@ If you find this repository helpful to your work, please kindly star it and cite
   publisher={IEEE}
 }
 ```
-
 🤗 Contributions to update new resources and articles are very welcome!
 
 ## 🎉 News
+- [2026.04]🎯[Update]: We release the [MRLib](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-Library) as a comprehensive benchmark and code base for mutlimodal recommendations.
 - [2026.04]🎯[Update]: Add papers related to **AAAI 2026**.
 - [2026.03]🎯[Update]: Add papers related to **KDD 2026 Round1**, **Information Fusion 2026**, and **TORS 2026**.
 - [2025.12]🎯[Update]: Add papers related to **NeurIPS 2025**, **RecSys 2025**, and **TOIS 2025**.
 - [2025.11]🎯[Update]: Add papers related to **MM 2025** and **CIKM 2025**.
 - [2025.07]🎯[Update]: Add papers related to **SIGIR 2025** and **KDD 2025**.
 - [2025.03]🎯[Update]: This repository is publicly available.
+
+
+
+## 🔧 MRLib: Multimodal Recommendation Library
+
+We release the [MRLib](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-Library): A Continuously Updated Library for Advanced Models for Multimodal Recommendation.
+
+**We will continuously update MRLib with highly reproducible models from the latest papers on multimodal recommendation.** 
 
 ## 📊 Paper List
 
@@ -125,14 +133,6 @@ If you find this repository helpful to your work, please kindly star it and cite
 
 
 
-## 💻 Framework
-
-There are two open-sourced repositories for implementing multimodal recommender system models.
-
-[MMRec](https://github.com/enoche/MMRec), [Cornec](https://github.com/PreferredAI/cornac)
-
-
-
 ## 📂 Dataset
 
 We sorted all multimodal recommendation datasets based on scale size.
@@ -155,7 +155,5 @@ We sorted all multimodal recommendation datasets based on scale size.
 | Movielens      | 25M   | Movie              | Visual, Textual               | [link](https://grouplens.org/datasets/movielens/)            |
 | MSD            | 48M+  | Music              | Textual, Audio                | [link](http://millionsongdataset.com/challenge/)             |
 | Amazon         | 100M+ | E-commerce         | Visual, Textual               | [link](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews) |
-
-
 
 [![*Star History Chart*](https://api.star-history.com/svg?repos=Jinfeng-Xu/Awesome-Multimodal-Recommender-Systems&type=Date)](https://www.star-history.com/#Jinfeng-Xu/Awesome-Multimodal-Recommender-Systems&Date)
