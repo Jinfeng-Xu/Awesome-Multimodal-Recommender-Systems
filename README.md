@@ -1,6 +1,8 @@
 
 <h1 align="center"><img src="image/logo.png" alt="" width="64" style="vertical-align: middle;">&nbsp; A Survey on Multimodal Recommender Systems: Recent Advances and Future Directions</h1>
 
+> 📢📢📢  For many works, the reproduction results deviate significantly from what is reported in the papers. We will keep updating [MRLib](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-Library) with works that show satisfactory reproducibility. If you have a work you'd like to see included in [MRLib](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-Library), please contribute!
+
 ## 🚀 Overview 
 
 Our discussion categorizes existing MRS models into four critical aspects: **Feature Extraction**, **Encoder**, **Multimodal Fusion**, and **Loss Function**. 
@@ -25,6 +27,7 @@ If you find this repository helpful to your work, please kindly star it and cite
 🤗 Contributions to update new resources and articles are very welcome!
 
 ## 🎉 News
+- [2026.05]🎯[Update]: Add papers related to **SIGIR 2026** and **TMM 2026**.
 - [2026.04]🎯[Update]: We release the [MRLib](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-Library) as a comprehensive benchmark and code base for mutlimodal recommendations.
 - [2026.04]🎯[Update]: Add papers related to **AAAI 2026**.
 - [2026.03]🎯[Update]: Add papers related to **KDD 2026 Round1**, **Information Fusion 2026**, and **TORS 2026**.
@@ -130,6 +133,9 @@ We release the [MRLib](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-L
 | DHMRec       | 2026 | AAAI        | [link](https://ojs.aaai.org/index.php/AAAI/article/view/38661/42623) | :question:                                                   |
 | M2VAE        | 2026 | AAAI        | [link](https://ojs.aaai.org/index.php/AAAI/article/view/38501/42463) | [code](https://github.com/chuanhe1999/M2VAE/blob/main/ML-20M/model_hi_moe.py) |
 | SCALE        | 2026 | AAAI        | [link](https://ojs.aaai.org/index.php/AAAI/article/download/38533/42495) | :question:                                                   |
+| LETTER       | 2026 | TMM         | [link](https://ieeexplore.ieee.org/abstract/document/11208609/) | :question:                                                   |
+| HSD          | 2026 | TMM         | [link](https://ieeexplore.ieee.org/abstract/document/11344765/) | [code](https://github.com/Tuo97/HSD)                         |
+| SG-URInit    | 2026 | SIGIR       | [link](https://arxiv.org/pdf/2604.14839)                     | [code](https://github.com/Jinfeng-Xu/SG-URInit)              |
 
 
 
