@@ -125,7 +125,7 @@ We release the [MRLib](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-L
 | MambaRec     | 2025 | CIKM        | [link](https://arxiv.org/pdf/2509.09114)                     | [code](https://github.com/rkl71/MambaRec)                    |
 | Study4LLMRec | 2025 | RecSys      | [link](https://dl.acm.org/doi/pdf/10.1145/3705328.3748154)   | [code](https://github.com/nickolat/LLMRec_reproducibility)   |
 | ITCoHD-MRec  | 2025 | TOIS        | [link](https://dl.acm.org/doi/pdf/10.1145/3767337)           | :question:                                                   |
-| SSR          | 2025 | NeurIPS     | [link](https://arxiv.org/pdf/2512.01372)                     | :question:                                                   |
+| SSR          | 2025 | NeurIPS     | [link](https://arxiv.org/pdf/2512.01372)                     | [code](https://github.com/llm-ml/SSR)                        |
 | VI-MMRec     | 2026 | KDD         | [link](https://arxiv.org/pdf/2512.08702)                     | [code](https://github.com/Jinfeng-Xu/Vi-MMRec)               |
 | LOBSTER      | 2026 | INFFUS      | [link](https://www.sciencedirect.com/science/article/pii/S1566253525008401) | [code](https://github.com/Jinfeng-Xu/LOBSTER)                |
 | NLGCL+       | 2026 | TORS        | [link](https://dl.acm.org/doi/pdf/10.1145/3806231)           | [code](https://github.com/Jinfeng-Xu/NLGCL-Plus)             |
@@ -133,9 +133,13 @@ We release the [MRLib](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-L
 | DHMRec       | 2026 | AAAI        | [link](https://ojs.aaai.org/index.php/AAAI/article/view/38661/42623) | :question:                                                   |
 | M2VAE        | 2026 | AAAI        | [link](https://ojs.aaai.org/index.php/AAAI/article/view/38501/42463) | [code](https://github.com/chuanhe1999/M2VAE/blob/main/ML-20M/model_hi_moe.py) |
 | SCALE        | 2026 | AAAI        | [link](https://ojs.aaai.org/index.php/AAAI/article/download/38533/42495) | :question:                                                   |
+| MSCA         | 2026 | WWW         | [link](https://doi.org/10.1145/3774904.3792192)              | [code](https://github.com/recomall/MSCA)                     |
 | LETTER       | 2026 | TMM         | [link](https://ieeexplore.ieee.org/abstract/document/11208609/) | :question:                                                   |
 | HSD          | 2026 | TMM         | [link](https://ieeexplore.ieee.org/abstract/document/11344765/) | [code](https://github.com/Tuo97/HSD)                         |
 | SG-URInit    | 2026 | SIGIR       | [link](https://arxiv.org/pdf/2604.14839)                     | [code](https://github.com/Jinfeng-Xu/SG-URInit)              |
+| GRE-MC       | 2026 | SIGIR       | [link](https://arxiv.org/pdf/2605.00670)                     | :question:                                                   |
+| PNGRec       | 2026 | SIGIR       | [link](https://dl.acm.org/doi/abs/10.1145/3805712.3809608)   | [code](https://github.com/orangeheyue/PNGRec)                |
+| DIGEST       | 2026 | SIGIR       | [link](https://dl.acm.org/doi/abs/10.1145/3805712.3809642)   | :question:                                                   |
 
 
 
