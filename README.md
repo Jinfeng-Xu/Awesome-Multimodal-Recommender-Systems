@@ -27,6 +27,7 @@ If you find this repository helpful to your work, please kindly star it and cite
 🤗 Contributions to update new resources and articles are very welcome!
 
 ## 🎉 News
+- [2026.08]🎯[Update]: Add papers related to **SIGIR 2026**.
 - [2026.05]🎯[Update]: Add papers related to **SIGIR 2026** and **TMM 2026**.
 - [2026.04]🎯[Update]: We release the [MRLib](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-Library) as a comprehensive benchmark and code base for mutlimodal recommendations.
 - [2026.04]🎯[Update]: Add papers related to **AAAI 2026**.
