@@ -27,6 +27,7 @@ If you find this repository helpful to your work, please kindly star it and cite
 🤗 Contributions to update new resources and articles are very welcome!
 
 ## 🎉 News
+- [2026.10]🎯[Update]: Add papers related to **MM 2026** and **CIKM 2026**.
 - [2026.08]🎯[Update]: Add papers related to **SIGIR 2026**.
 - [2026.05]🎯[Update]: Add papers related to **SIGIR 2026** and **TMM 2026**.
 - [2026.04]🎯[Update]: We release the [MRLib](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-Library) as a comprehensive benchmark and code base for mutlimodal recommendations.
@@ -141,6 +142,9 @@ We release the [MRLib](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-L
 | GRE-MC       | 2026 | SIGIR       | [link](https://arxiv.org/pdf/2605.00670)                     | :question:                                                   |
 | PNGRec       | 2026 | SIGIR       | [link](https://dl.acm.org/doi/abs/10.1145/3805712.3809608)   | [code](https://github.com/orangeheyue/PNGRec)                |
 | DIGEST       | 2026 | SIGIR       | [link](https://dl.acm.org/doi/abs/10.1145/3805712.3809642)   | :question:                                                   |
+| Orthorec       | 2026 | MM       | [link](https://arxiv.org/pdf/2609.02152)   | [code](https://github.com/Camilla-jl/Orthorec)                |
+| IIMRec       | 2026 | MM       | [link](https://arxiv.org/pdf/2607.24607)   | [code](https://github.com/Jinfeng-Xu/IIMRec)                |
+| AMUR         | 2026 | CIKM        | [link](https://arxiv.org/pdf/2608.27950)                     | [code](https://github.com/Wenze1/AMUR)                       |
 
 
 
